@@ -12,7 +12,7 @@ trainloader = cifar10_loader(train=True)
 testloader = cifar10_loader(train=False)
 writer = SummaryWriter("./logs")
 
-epochs = 100
+epochs = 2
 batch_size = 128
 log_batch = 200
 train_metrics = []
