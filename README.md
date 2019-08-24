@@ -1,5 +1,4 @@
 # AlexNet with CIFAR10 dataset
-An implementation of AlexNet for CIFAR-10 dataset using pytorch.
 ---
 - [Introduction](#introduction)
 - [Environment](#environment)
