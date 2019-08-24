@@ -8,8 +8,8 @@ An implementation of AlexNet for CIFAR-10 dataset using pytorch.
 
 ---
 ## Environment
-- Language: Python 3
-- Google Colaboratory
+- Language: [Python 3](https://www.python.org)
+- [Google Colaboratory](https://colab.research.google.com)
 
 ---
 ## Author
