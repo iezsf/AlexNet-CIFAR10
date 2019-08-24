@@ -1,5 +1,4 @@
 # AlexNet with CIFAR10 dataset
----
 - [Introduction](#introduction)
 - [Environment](#environment)
 - [Author](#author)
